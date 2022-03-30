@@ -1,2 +1,0 @@
-# VRlego
-VRlego
